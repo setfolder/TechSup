@@ -1,2 +1,2 @@
-# TechSup
-Tech Support website interface layout
+# Tech support
+Click https://setfolder.github.io/TechSup/ for preview.
